@@ -1,1 +1,1 @@
-worker: python3 main.py
+worker: nohup python3 main.py &
